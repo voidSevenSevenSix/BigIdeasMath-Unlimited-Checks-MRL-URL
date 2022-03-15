@@ -1,4 +1,6 @@
 //IMPORTANT: YOUR ASSIGNMENT URL MUST HAVE WWW.BIGIDEASMATH.COM/MRL IN IT!!!! IF IT DOESN'T (I.E. WWW.BIGIDEASMATH.COM/BIM) THIS WILL NOT WORK!!
+//It should be pasted in the console of the assignment, the URL will look something like 
+//https://www.bigideasmath.com/MRL/public/app/#/student/assessment;isPlayerWindow=true;assignmentId=abcdef-1234-5678-9012-abcdefg. Obviously the assignment ID will be different.
 console.log("Initializing...");
 var questions = [];
 var sjson = "{";
